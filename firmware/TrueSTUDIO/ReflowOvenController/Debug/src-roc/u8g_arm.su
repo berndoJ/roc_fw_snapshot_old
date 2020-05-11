@@ -1,0 +1,6 @@
+u8g_arm.c:37:6:u8g_hw_port_init	32	static
+u8g_arm.c:105:9:u8g_hw_port_byte_cb	16	static
+u8g_arm.c:136:6:u8g_hw_port_delay_ns	8	static
+u8g_arm.c:147:6:u8g_hw_port_delay_100ns	16	static
+u8g_arm.c:157:6:u8g_hw_port_delay_10us	0	static
+u8g_arm.c:57:9:u8g_hw_port_gpio_delay_cb	8	static

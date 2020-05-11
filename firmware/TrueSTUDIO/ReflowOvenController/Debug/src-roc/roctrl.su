@@ -1,0 +1,3 @@
+roctrl.c:47:6:roctrl_init_thread	8	static
+roctrl.c:62:9:roctrl_set_reflow_profile	0	static
+roctrl.c:76:9:roctrl_init_reflow_proc	0	static

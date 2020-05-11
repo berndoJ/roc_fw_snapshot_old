@@ -1,0 +1,3 @@
+menu_reflow_confirm.c:59:6:roc_menu_reflow_confirm_redraw	56	static
+menu_reflow_confirm.c:22:6:roc_menu_reflow_confirm_update	8	static
+menu_reflow_confirm.c:95:6:roc_menu_reflow_confirm_set_profile	0	static

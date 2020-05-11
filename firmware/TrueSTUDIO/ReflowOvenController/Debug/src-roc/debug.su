@@ -1,0 +1,7 @@
+debug.c:22:6:debug_cons_init_handle	8	static
+debug.c:34:6:debug_cons_print	16	static
+debug.c:49:6:debug_cons_print_char	24	static
+debug.c:61:6:debug_cons_println	8	static
+debug.c:67:6:HAL_UART_TxCpltCallback	0	static
+debug.c:94:6:debug_rcv_proc_cmd	8	static
+debug.c:72:6:HAL_UART_RxCpltCallback	8	static

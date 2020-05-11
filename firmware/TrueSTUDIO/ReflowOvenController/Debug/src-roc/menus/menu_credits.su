@@ -1,0 +1,2 @@
+menu_credits.c:15:6:roc_menu_credits_update	8	static
+menu_credits.c:27:6:roc_menu_credits_redraw	16	static

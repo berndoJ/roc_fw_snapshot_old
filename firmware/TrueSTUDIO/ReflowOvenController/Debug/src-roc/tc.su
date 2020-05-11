@@ -1,0 +1,2 @@
+tc.c:19:6:tc_init	0	static
+tc.c:24:11:tc_read_temp	40	static

@@ -1,0 +1,5 @@
+ssr.c:53:13:update_GPIO	8	static
+ssr.c:18:6:ssr_toggle	8	static
+ssr.c:27:6:ssr_enable	8	static
+ssr.c:36:6:ssr_disable	8	static
+ssr.c:45:9:ssr_get_state	0	static

@@ -1,0 +1,2 @@
+menu.c:74:6:roc_menu_open	8	static
+menu.c:34:6:roc_menu_run_task	8	static

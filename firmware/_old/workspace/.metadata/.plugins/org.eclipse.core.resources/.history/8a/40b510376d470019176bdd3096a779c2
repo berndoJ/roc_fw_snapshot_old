@@ -1,0 +1,6 @@
+#include "stm32f072xb.h"
+
+int main (void)
+{
+	return 0;
+}

@@ -1,0 +1,9 @@
+main.c:608:6:start_serialport_task	8	static
+main.c:649:6:start_util_thread	8	static
+main.c:622:6:start_ssr_thread	8	static
+main.c:640:6:start_display_thread	8	static
+main.c:695:6:_Error_Handler.constprop	8	static
+main.c:244:6:SystemClock_Config	104	static
+main.c:123:5:main	168	static
+main.c:675:6:HAL_TIM_PeriodElapsedCallback	8	static
+main.c:695:6:_Error_Handler	8	static

@@ -1,0 +1,6 @@
+menu_reflow.c:74:6:roc_menu_reflow_redraw	112	static
+menu_reflow.c:168:13:roc_menu_reflow_update_hw	40	static
+menu_reflow.c:42:6:roc_menu_reflow_update	16	static
+menu_reflow.c:137:6:roc_menu_reflow_set_profile	0	static
+menu_reflow.c:145:6:roc_menu_reflow_start	16	static
+menu_reflow.c:160:6:roc_menu_reflow_update_heater_status	0	static

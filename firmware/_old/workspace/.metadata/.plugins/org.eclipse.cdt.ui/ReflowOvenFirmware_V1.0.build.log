@@ -1,0 +1,253 @@
+11:36:48 **** Build of configuration Debug for project ReflowOvenFirmware_V1.0 ****
+make all 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal.d" -MT"system/src/STM32F0xx/stm32f0xx_hal.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal.o" "../system/src/STM32F0xx/stm32f0xx_hal.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_adc.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_adc.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_adc.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_adc.o" "../system/src/STM32F0xx/stm32f0xx_hal_adc.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_adc.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_adc_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_adc_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_adc_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_adc_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_adc_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_adc_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_can.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_can.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_can.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_can.o" "../system/src/STM32F0xx/stm32f0xx_hal_can.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_can.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_cec.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_cec.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_cec.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_cec.o" "../system/src/STM32F0xx/stm32f0xx_hal_cec.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_cec.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_comp.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_comp.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_comp.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_comp.o" "../system/src/STM32F0xx/stm32f0xx_hal_comp.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_comp.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_cortex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_cortex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_cortex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_cortex.o" "../system/src/STM32F0xx/stm32f0xx_hal_cortex.c"
+../system/src/STM32F0xx/stm32f0xx_hal_cortex.c: In function 'HAL_NVIC_SetPriority':
+../system/src/STM32F0xx/stm32f0xx_hal_cortex.c:152:78: warning: unused parameter 'SubPriority' [-Wunused-parameter]
+ void HAL_NVIC_SetPriority(IRQn_Type IRQn, uint32_t PreemptPriority, uint32_t SubPriority)
+                                                                              ^~~~~~~~~~~
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_cortex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_crc.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_crc.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_crc.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_crc.o" "../system/src/STM32F0xx/stm32f0xx_hal_crc.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_crc.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_crc_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_crc_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_crc_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_crc_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_crc_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_crc_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_dac.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_dac.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_dac.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_dac.o" "../system/src/STM32F0xx/stm32f0xx_hal_dac.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_dac.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_dac_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_dac_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_dac_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_dac_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_dac_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_dac_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_dma.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_dma.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_dma.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_dma.o" "../system/src/STM32F0xx/stm32f0xx_hal_dma.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_dma.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_flash.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_flash.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_flash.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_flash.o" "../system/src/STM32F0xx/stm32f0xx_hal_flash.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_flash.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_flash_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_flash_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_flash_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_flash_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_flash_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_flash_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_gpio.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_gpio.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_gpio.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_gpio.o" "../system/src/STM32F0xx/stm32f0xx_hal_gpio.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_gpio.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_i2c.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_i2c.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_i2c.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_i2c.o" "../system/src/STM32F0xx/stm32f0xx_hal_i2c.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_i2c.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_i2c_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_i2c_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_i2c_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_i2c_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_i2c_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_i2c_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_i2s.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_i2s.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_i2s.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_i2s.o" "../system/src/STM32F0xx/stm32f0xx_hal_i2s.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_i2s.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_irda.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_irda.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_irda.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_irda.o" "../system/src/STM32F0xx/stm32f0xx_hal_irda.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_irda.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_iwdg.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_iwdg.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_iwdg.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_iwdg.o" "../system/src/STM32F0xx/stm32f0xx_hal_iwdg.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_iwdg.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_pcd.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_pcd.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_pcd.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_pcd.o" "../system/src/STM32F0xx/stm32f0xx_hal_pcd.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_pcd.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_pcd_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_pcd_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_pcd_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_pcd_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_pcd_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_pcd_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_pwr.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_pwr.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_pwr.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_pwr.o" "../system/src/STM32F0xx/stm32f0xx_hal_pwr.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_pwr.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_pwr_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_pwr_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_pwr_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_pwr_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_pwr_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_pwr_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_rcc.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_rcc.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_rcc.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_rcc.o" "../system/src/STM32F0xx/stm32f0xx_hal_rcc.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_rcc.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_rcc_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_rcc_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_rcc_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_rcc_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_rcc_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_rcc_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_rtc.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_rtc.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_rtc.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_rtc.o" "../system/src/STM32F0xx/stm32f0xx_hal_rtc.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_rtc.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_rtc_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_rtc_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_rtc_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_rtc_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_rtc_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_rtc_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_smartcard.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_smartcard.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_smartcard.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_smartcard.o" "../system/src/STM32F0xx/stm32f0xx_hal_smartcard.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_smartcard.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_smartcard_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_smartcard_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_smartcard_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_smartcard_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_smartcard_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_smartcard_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_smbus.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_smbus.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_smbus.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_smbus.o" "../system/src/STM32F0xx/stm32f0xx_hal_smbus.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_smbus.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_spi.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_spi.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_spi.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_spi.o" "../system/src/STM32F0xx/stm32f0xx_hal_spi.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_spi.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_spi_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_spi_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_spi_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_spi_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_spi_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_spi_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_tim.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_tim.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_tim.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_tim.o" "../system/src/STM32F0xx/stm32f0xx_hal_tim.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_tim.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_tim_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_tim_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_tim_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_tim_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_tim_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_tim_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_tsc.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_tsc.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_tsc.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_tsc.o" "../system/src/STM32F0xx/stm32f0xx_hal_tsc.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_tsc.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_uart.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_uart.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_uart.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_uart.o" "../system/src/STM32F0xx/stm32f0xx_hal_uart.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_uart.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_uart_ex.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_uart_ex.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_uart_ex.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_uart_ex.o" "../system/src/STM32F0xx/stm32f0xx_hal_uart_ex.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_uart_ex.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_usart.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_usart.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_usart.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_usart.o" "../system/src/STM32F0xx/stm32f0xx_hal_usart.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_usart.c
+ 
+Building file: ../system/src/STM32F0xx/stm32f0xx_hal_wwdg.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"system/src/STM32F0xx/stm32f0xx_hal_wwdg.d" -MT"system/src/STM32F0xx/stm32f0xx_hal_wwdg.o" -c -o "system/src/STM32F0xx/stm32f0xx_hal_wwdg.o" "../system/src/STM32F0xx/stm32f0xx_hal_wwdg.c"
+Finished building: ../system/src/STM32F0xx/stm32f0xx_hal_wwdg.c
+ 
+Building file: ../src/main.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"src/main.d" -MT"src/main.o" -c -o "src/main.o" "../src/main.c"
+../src/main.c: In function '_Error_Handler':
+../src/main.c:448:27: warning: unused parameter 'file' [-Wunused-parameter]
+ void _Error_Handler(char *file, int line)
+                           ^~~~
+../src/main.c:448:37: warning: unused parameter 'line' [-Wunused-parameter]
+ void _Error_Handler(char *file, int line)
+                                     ^~~~
+../src/main.c: In function 'assert_failed':
+../src/main.c:466:29: warning: unused parameter 'file' [-Wunused-parameter]
+ void assert_failed(uint8_t* file, uint32_t line)
+                             ^~~~
+../src/main.c:466:44: warning: unused parameter 'line' [-Wunused-parameter]
+ void assert_failed(uint8_t* file, uint32_t line)
+                                            ^~~~
+Finished building: ../src/main.c
+ 
+Building file: ../src/stm32f0xx_hal_msp.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"src/stm32f0xx_hal_msp.d" -MT"src/stm32f0xx_hal_msp.o" -c -o "src/stm32f0xx_hal_msp.o" "../src/stm32f0xx_hal_msp.c"
+Finished building: ../src/stm32f0xx_hal_msp.c
+ 
+Building file: ../src/stm32f0xx_it.c
+Invoking: GNU ARM Cross C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DSTM32F072xB -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F072 -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=16000000 -I"../include" -I"G:\Meine Ablage\Projekte\Reflow Oven\firmware\workspace\ReflowOvenFirmware_V1.0\system\include\STM32F0xx" -I"../system/include" -I"../system/include/cmsis" -std=gnu11 -MMD -MP -MF"src/stm32f0xx_it.d" -MT"src/stm32f0xx_it.o" -c -o "src/stm32f0xx_it.o" "../src/stm32f0xx_it.c"
+Finished building: ../src/stm32f0xx_it.c
+ 
+Building target: ReflowOvenFirmware_V1.0.elf
+Invoking: GNU ARM Cross C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m0 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"ReflowOvenFirmware_V1.0.map" -o "ReflowOvenFirmware_V1.0.elf"  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/startup_stm32f072xb.o ./system/src/cmsis/system_stm32f0xx.o  ./system/src/STM32F0xx/stm32f0xx_hal.o ./system/src/STM32F0xx/stm32f0xx_hal_adc.o ./system/src/STM32F0xx/stm32f0xx_hal_adc_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_can.o ./system/src/STM32F0xx/stm32f0xx_hal_cec.o ./system/src/STM32F0xx/stm32f0xx_hal_comp.o ./system/src/STM32F0xx/stm32f0xx_hal_cortex.o ./system/src/STM32F0xx/stm32f0xx_hal_crc.o ./system/src/STM32F0xx/stm32f0xx_hal_crc_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_dac.o ./system/src/STM32F0xx/stm32f0xx_hal_dac_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_dma.o ./system/src/STM32F0xx/stm32f0xx_hal_flash.o ./system/src/STM32F0xx/stm32f0xx_hal_flash_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_gpio.o ./system/src/STM32F0xx/stm32f0xx_hal_i2c.o ./system/src/STM32F0xx/stm32f0xx_hal_i2c_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_i2s.o ./system/src/STM32F0xx/stm32f0xx_hal_irda.o ./system/src/STM32F0xx/stm32f0xx_hal_iwdg.o ./system/src/STM32F0xx/stm32f0xx_hal_pcd.o ./system/src/STM32F0xx/stm32f0xx_hal_pcd_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_pwr.o ./system/src/STM32F0xx/stm32f0xx_hal_pwr_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_rcc.o ./system/src/STM32F0xx/stm32f0xx_hal_rcc_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_rtc.o ./system/src/STM32F0xx/stm32f0xx_hal_rtc_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_smartcard.o ./system/src/STM32F0xx/stm32f0xx_hal_smartcard_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_smbus.o ./system/src/STM32F0xx/stm32f0xx_hal_spi.o ./system/src/STM32F0xx/stm32f0xx_hal_spi_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_tim.o ./system/src/STM32F0xx/stm32f0xx_hal_tim_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_tsc.o ./system/src/STM32F0xx/stm32f0xx_hal_uart.o ./system/src/STM32F0xx/stm32f0xx_hal_uart_ex.o ./system/src/STM32F0xx/stm32f0xx_hal_usart.o ./system/src/STM32F0xx/stm32f0xx_hal_wwdg.o ./system/src/STM32F0xx/stm32f0xx_ll_adc.o ./system/src/STM32F0xx/stm32f0xx_ll_comp.o ./system/src/STM32F0xx/stm32f0xx_ll_crc.o ./system/src/STM32F0xx/stm32f0xx_ll_crs.o ./system/src/STM32F0xx/stm32f0xx_ll_dac.o ./system/src/STM32F0xx/stm32f0xx_ll_dma.o ./system/src/STM32F0xx/stm32f0xx_ll_exti.o ./system/src/STM32F0xx/stm32f0xx_ll_gpio.o ./system/src/STM32F0xx/stm32f0xx_ll_i2c.o ./system/src/STM32F0xx/stm32f0xx_ll_pwr.o ./system/src/STM32F0xx/stm32f0xx_ll_rcc.o ./system/src/STM32F0xx/stm32f0xx_ll_rtc.o ./system/src/STM32F0xx/stm32f0xx_ll_spi.o ./system/src/STM32F0xx/stm32f0xx_ll_tim.o ./system/src/STM32F0xx/stm32f0xx_ll_usart.o ./system/src/STM32F0xx/stm32f0xx_ll_utils.o  ./src/main.o ./src/stm32f0xx_hal_msp.o ./src/stm32f0xx_it.o   
+Finished building target: ReflowOvenFirmware_V1.0.elf
+ 
+Invoking: GNU ARM Cross Create Flash Image
+arm-none-eabi-objcopy -O ihex "ReflowOvenFirmware_V1.0.elf"  "ReflowOvenFirmware_V1.0.hex"
+Finished building: ReflowOvenFirmware_V1.0.hex
+ 
+Invoking: GNU ARM Cross Print Size
+arm-none-eabi-size --format=berkeley "ReflowOvenFirmware_V1.0.elf"
+   text	   data	    bss	    dec	    hex	filename
+  39056	   2536	    972	  42564	   a644	ReflowOvenFirmware_V1.0.elf
+Finished building: ReflowOvenFirmware_V1.0.siz
+ 
+
+11:38:12 Build Finished. 0 errors, 5 warnings. (took 1m:24s.158ms)
+

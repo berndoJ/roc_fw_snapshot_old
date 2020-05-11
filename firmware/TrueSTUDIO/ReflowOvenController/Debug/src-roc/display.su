@@ -1,0 +1,2 @@
+display.c:34:6:display_init	32	static
+display.c:61:6:display_util_draw_selector	24	static

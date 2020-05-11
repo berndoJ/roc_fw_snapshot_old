@@ -1,0 +1,7 @@
+u8g_rot.c:87:9:u8g_dev_rot90_fn	32	static
+u8g_rot.c:186:9:u8g_dev_rot180_fn	32	static
+u8g_rot.c:294:9:u8g_dev_rot270_fn	32	static
+u8g_rot.c:46:6:u8g_UndoRotation	8	static
+u8g_rot.c:54:6:u8g_SetRot90	8	static
+u8g_rot.c:65:6:u8g_SetRot180	8	static
+u8g_rot.c:76:6:u8g_SetRot270	8	static
